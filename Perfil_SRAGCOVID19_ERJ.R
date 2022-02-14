@@ -52,7 +52,7 @@ SRAG_RJ <- rbind(sivep_gripe_2020, sivep_gripe_2021)
 
 # base de dados da pop
 
-pop.fxetaria <- read_excel("PopTotal_RJ_2020-pormunicp.xlsx")
+pop.fxetaria <- read_excel("pop_mun_fxetaria_2020_rj.xlsx")
 
 #### Filtrar so para municipio do RJ ##
 
